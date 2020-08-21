@@ -6,8 +6,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            int number = 10;
             Console.WriteLine("My first commit in git");
-            Console.WriteLine("Added another line");
+            Console.WriteLine("The Number is = {0}",number);
         }
     }
 }
