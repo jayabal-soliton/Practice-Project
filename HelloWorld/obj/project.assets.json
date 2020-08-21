@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\Practice-Project\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\Practice-Project\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\jayabal.somasundaram\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\jayabal.somasundaram\\Desktop\\Git Practice Project\\Practice-Project\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayabal.somasundaram\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,7 +6,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Added the files to repo");
+            Console.WriteLine("My first commit in git");
+            Console.WriteLine("Added another line");
         }
     }
 }
